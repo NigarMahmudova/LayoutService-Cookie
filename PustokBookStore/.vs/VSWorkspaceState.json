@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PustokBookStore",
+    "\\PustokBookStore\\Controllers",
+    "\\PustokBookStore\\Views",
+    "\\PustokBookStore\\Views\\Home",
+    "\\PustokBookStore\\wwwroot",
+    "\\PustokBookStore\\wwwroot\\assets",
+    "\\PustokBookStore\\wwwroot\\assets\\js"
+  ],
+  "SelectedNode": "\\PustokBookStore\\Controllers\\BookController.cs",
+  "PreviewInSolutionExplorer": false
+}
